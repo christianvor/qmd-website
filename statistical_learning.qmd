@@ -1,0 +1,19 @@
+---
+title: "Statistical learning"
+editor: visual
+---
+
+
+
+## Regression
+LM
+
+## Classifiers
+
+Logit, kNN, nb
+
+## Trees
+RF
+
+## Clustering
+kMeans, DBS, hclust
