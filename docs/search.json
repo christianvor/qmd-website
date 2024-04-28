@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "qmd-website",
+    "title": "ChristianVor",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "statistical_learning.html",
+    "href": "statistical_learning.html",
+    "title": "Statistical learning",
+    "section": "",
+    "text": "LM"
+  },
+  {
+    "objectID": "statistical_learning.html#regression",
+    "href": "statistical_learning.html#regression",
+    "title": "Statistical learning",
+    "section": "",
+    "text": "LM"
+  },
+  {
+    "objectID": "statistical_learning.html#classifiers",
+    "href": "statistical_learning.html#classifiers",
+    "title": "Statistical learning",
+    "section": "Classifiers",
+    "text": "Classifiers\nLogit, kNN, nb"
+  },
+  {
+    "objectID": "statistical_learning.html#trees",
+    "href": "statistical_learning.html#trees",
+    "title": "Statistical learning",
+    "section": "Trees",
+    "text": "Trees\nRF"
+  },
+  {
+    "objectID": "statistical_learning.html#clustering",
+    "href": "statistical_learning.html#clustering",
+    "title": "Statistical learning",
+    "section": "Clustering",
+    "text": "Clustering\nkMeans, DBS, hclust"
   }
 ]
